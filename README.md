@@ -35,5 +35,5 @@ It is possible to add more dimension while not supported and implemented in this
 # Theory
 
 ```math
-a=2x
+a=2\frac{2y}{z}
 ```
