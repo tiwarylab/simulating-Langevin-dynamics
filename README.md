@@ -1,10 +1,14 @@
 # README
-This is a demonstration of simulation of Langevin dynamics based on Verlet algorithm. It was designed for Tiwary's research group at University of Maryland since 2017, in order to study the dynamics and exploration of stochastic movement in configuration space. 
+This is a Langevin dynamics simulation designed for Tiwary's research group at University of Maryland since 2017, in order to study the dynamics and exploration of stochastic movement in configuration space. 
 
 The algorithm is based on the verlet algorithm proposed in the paper "Accurate sampling using Langevin dynamics", Giovanni Bussi and Michele Parrinello, Phys. Rev. E 75, 056707 (2007).
 
-To add one more dimension in z-direction:
+# The most up-to-date version
+`./v6/`
 
+# More dimensions
+It is possible to add more dimension while not supported and implemented in this version. To add one more dimension in z-direction at least the following steps need to be done.
+```
 (1) Add f[2] in force.cpp. 
 
 (2) All f_x, f_y, and f_z in force.cpp need to have three arguments: qq1->x[0], qq1->x[1], qq1->x[2]
@@ -18,6 +22,7 @@ To add one more dimension in z-direction:
 (6) Specify initial z positions and z velocities in configuration file.
 
 (6) Specify initial z positions and z velocities in configuration file.
+```
 
 # How to use
 
