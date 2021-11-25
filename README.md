@@ -34,6 +34,6 @@ It is possible to add more dimension while not supported and implemented in this
 
 # Theory
 
-\begin{align*}
+```math
 a=2x
-\end{align*}
+```
