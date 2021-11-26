@@ -33,5 +33,6 @@ It is possible to add more dimension while not supported and implemented in this
 ```
 
 # Theory
+[Theory.pdf](https://github.com/tiwarylab/simulating-Langevin-dynamics/files/7607003/Theory.pdf)
 
 
