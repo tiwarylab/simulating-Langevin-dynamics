@@ -33,6 +33,7 @@ It is possible to add more dimension while not supported and implemented in this
 ```
 
 # Theory
+This theory is a detail explanation of integration which combines the author's understanding and the orginal work published by Giovanni Bussi and Michele Parrinello, Phys. Rev. E 75, 056707 (2007).
 [Theory.pdf](/Theory.pdf)
 
-<img src="https://user-images.githubusercontent.com/22850008/143543063-1fe100ce-7523-496d-8949-e4bb5ee9e420.png" width="500">
+<img src="https://user-images.githubusercontent.com/22850008/143543063-1fe100ce-7523-496d-8949-e4bb5ee9e420.png" width="400">
